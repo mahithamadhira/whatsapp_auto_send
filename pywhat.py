@@ -23,7 +23,7 @@ later_time = datetime.datetime(year,month,day,hours,min,sec)
 # print()
 
 
-driver = webdriver.Chrome(r'c:\Users\yashu\Desktop\chromedriver')
+driver = webdriver.Chrome(r'c:\Users\<INSERT YOUR USERNAME HERE>\Desktop\chromedriver')
 driver.get('http://web.whatsapp.com')
 
 
